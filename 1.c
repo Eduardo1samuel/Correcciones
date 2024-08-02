@@ -9,5 +9,8 @@ int main()
     b = 10;
     c = a + b;
     printf("%d + %d = %d\n", a, b, c);
+    printf("Se han hecho cambios");
     return 0;
 }
+
+//cambios de comentarios existentes
